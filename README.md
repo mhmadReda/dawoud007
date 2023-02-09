@@ -41,3 +41,6 @@ csharp/csharp-original.svg
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawoud007&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dawoud007&theme=blue-green&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
