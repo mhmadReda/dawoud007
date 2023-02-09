@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋🏻, I'm Dawoud</br> 
 </h1>
-<p align="center">### 👨‍💻 About Me :</p>
+
 <p align="center">🔭 I'm a Computer Engineering student.</p>
 <p align="center">🌱 I spend most of my time  coding .</p>
 <p align="center"> 👯 I'm passionate about learning new technologies.</p>
