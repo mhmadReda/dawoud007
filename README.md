@@ -1,7 +1,7 @@
 <h1 Hi 👋🏻, I'm Dawoud</br> 
 </h1>
 
-🔭 I'm a Computer Engineering student.
+🔭 I'm a Computer Engineering student.</br> 
 🌱 I spend most of my time  coding .</br> 
  👯 I'm passionate about learning new technologies.</br> 
 I love creating new things ⚡</br> 
