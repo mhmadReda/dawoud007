@@ -1,4 +1,4 @@
-<h1 Hi 👋🏻, I'm Dawoud</br> 
+<h1>Hi 👋🏻, I'm Dawoud</br> 
 </h1>
 
 🔭 I'm a Computer Engineering student.</br> 
@@ -7,8 +7,8 @@
 I love creating new things ⚡</br> 
 Turning imagination into reality 🚀</br> 
 
-<p align="center">  <a href="https://dawoud007.github.io/pw4m/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://www.linkedin.com/in/mohamed-dawoud-ba04701b9/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a> </p>
+<a href="https://dawoud007.github.io/pw4m/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/mohamed-dawoud-ba04701b9/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a> 
 
 
 
@@ -28,10 +28,14 @@ Turning imagination into reality 🚀</br>
 
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="45" height="45"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="45" height="45"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="45" height="45"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" width="45" height="45"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45" height="45"/>
+ 
+ 
+
 
 </div>
-
+csharp/csharp-original.svg
 
 ---
 
