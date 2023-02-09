@@ -1,5 +1,9 @@
 <h1 align="center"> Hi 👋🏻, I'm Dawoud</br> 
 </h1>
+### 👨‍💻 About Me :
+- 🔭 I'm a Computer Engineering student.
+- 🌱 I spend most of my time  coding .
+- 👯 I'm passionate about learning new technologies.
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
 
@@ -9,12 +13,9 @@
 
 
 
-## Creation 👨‍💻
-### 👨‍💻 About Me :
-- 🔭 I'm a Computer Engineering student.
-- 🌱 I spend most of my time  coding .
-- 👯 I'm passionate about learning new technologies.
-- 📫 Reach me on [![Linkedin Badge](https://img.shields.io/badge/-dawoud-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-dawood-ba04701b9/)
+
+
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
