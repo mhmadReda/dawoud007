@@ -35,7 +35,6 @@ Turning imagination into reality 🚀</br>
 
 
 </div>
-csharp/csharp-original.svg
 
 ---
 
