@@ -1,9 +1,9 @@
 <h1 align="center"> Hi 👋🏻, I'm Dawoud</br> 
 </h1>
-### 👨‍💻 About Me :
-- 🔭 I'm a Computer Engineering student.
-- 🌱 I spend most of my time  coding .
-- 👯 I'm passionate about learning new technologies.
+<p align="center">### 👨‍💻 About Me :</p>
+<p align="center">🔭 I'm a Computer Engineering student.</p>
+<p align="center">🌱 I spend most of my time  coding .</p>
+<p align="center"> 👯 I'm passionate about learning new technologies.</p>
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
 
